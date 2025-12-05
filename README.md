@@ -18,7 +18,7 @@ Full‑stack developer building real products end‑to‑end with specialist reg
 | Project | What it is | Tech & Highlights |
 | ------ | ----------- | ----------------- |
 | **BizMitra AI Backend** | NodeJS backend for BizMitra’s WhatsApp AI assistant, handling Meta webhooks, AI orchestration, scheduling, and workspace configuration.  | NodeJS, Express‑style architecture, Meta webhooks, ResponsesAPI/AgentsSDK integration, scheduling engine, Docker, CI/CD.  |
-| **Solutions // LeetCode Problems** | Committing solutions I work on drawing leetcode style coding problems from various sources and attempting to solve them with my tech stack  |
+| **Solutions // LeetCode Problems** | Committing solutions I work on drawing leetcode style coding problems from various sources and attempting to solve them with my tech stack  | NodeJs, Java Springboot, PLSQL or SQL Queries |
 | **BizMitra Dashboard** | React + Vite, TypeScript‑first admin dashboard for managing conversations, bookings, templates, and client activity.  | React, TypeScript, Vite, responsive layouts, feature‑oriented structure, WhatsApp and Google onboarding components, typed API layer.  |
 | **BizMitra Landing Page** | High‑converting marketing site for BizMitra with responsive sections for features, pricing, and lead capture.  | React, TypeScript, component‑driven layout, mobile‑first design, UTM‑friendly links, SEO‑aware structure.  |
 | **Coping AI (Mobile)** | React Native journaling app that uses AI to assist reflection, track moods, and build healthier coping habits.  | React Native, Expo, TypeScript, notifications, modular screens and components, AI‑ready client architecture.  |
