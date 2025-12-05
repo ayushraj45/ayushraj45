@@ -30,7 +30,7 @@ These are not toy demos; they are structured as production‑oriented systems wi
 
 ## Tech Stack Snapshot
 
-- **Regu;atory Reporting**: Using PL/SQL, Python, Unix, Autosys and sound data engineering and management principles to create data automations that continuously meet high reporting accuracy standards. 
+- **Regulatory Reporting**: Using PL/SQL, Python, Unix, Autosys and sound data engineering and management principles to create data automations that continuously meet high reporting accuracy standards. 
 - **Frontend**: React, React Native, TypeScript, Vite, Expo.
 - **Backend**: NodeJS (Express‑style), Java Spring Boot, REST APIs, scheduling, webhooks.
 - **Databases**: Relational databases (Postgres / MySQL‑style setups), application‑level data modeling and multi‑workspace patterns.
@@ -52,6 +52,5 @@ These are not toy demos; they are structured as production‑oriented systems wi
 - **GitHub**: `github.com/ayushraj45`  
 - **LinkedIn**: `https://www.linkedin.com/in/ayushraj-pandey-connect/`  
 - **Portfolio / Product links**: `https://www.bizmitra-ai.com`, `https://www.coping-ai.com`  
-- **Resume/CV**: Check out this repo for CV 
 
 ***
