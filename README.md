@@ -17,7 +17,7 @@ Full‑stack developer building real products end‑to‑end with specialist reg
 
 | Project | What it is | Tech & Highlights |
 | ------ | ----------- | ----------------- |
-| **BizMitra AI Backend** | NodeJS backend for BizMitra’s WhatsApp AI assistant, handling Meta webhooks, AI orchestration, scheduling, and workspace configuration.  | NodeJS, Express‑style architecture, Meta webhooks, ResponsesAPI/AgentsSDK integration, scheduling engine, Docker, CI/CD.  |
+| **BizMitra AI Backend** | NodeJS Containerized backend for BizMitra’s WhatsApp AI assistant, handling Meta webhooks, AI orchestration, scheduling, and workspace configuration, running in a K8s cluster.  | NodeJS, Express‑style architecture, Meta webhooks, ResponsesAPI/AgentsSDK integration, scheduling engine, Docker, Kubernetes.  |
 | **Solutions // LeetCode Problems** | Committing solutions I work on drawing leetcode style coding problems from various sources and attempting to solve them with my tech stack  | NodeJs, Java Springboot, PLSQL or SQL Queries |
 | **BizMitra Dashboard** | React + Vite, TypeScript‑first admin dashboard for managing conversations, bookings, templates, and client activity.  | React, TypeScript, Vite, responsive layouts, feature‑oriented structure, WhatsApp and Google onboarding components, typed API layer.  |
 | **Full-stack Record management system** | Full-stack records management, with over 95% Test coverage, persisting DB queries using JPQL, Spring Boot intense MVC strucutre backend | Java, SpringBoot, JUnit Jupiter, Mockito, MySQL, Swagger-UI |
