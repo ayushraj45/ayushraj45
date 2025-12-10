@@ -9,7 +9,8 @@ Full‑stack developer building real products end‑to‑end with specialist reg
 - **AxiomSL Regulatory Reporting Software** - AxiomSL or AxiomCV is a niche specialty tool designed to streamline reg reporting, adopted by major banks around the world. 
 - **AI‑powered products** – Designing and shipping assistants that combine LLMs, custom logic, and scheduling to solve real workflows (BizMitra, Coping AI).
 - **Full‑stack web & mobile** – React, TypeScript, Vite, React Native, Expo, plus NodeJS and Spring Boot APIs with relational databases.
-- **Cloud & infra** – Containerized backends, CI/CD, and practical AWS‑style deployment patterns for SaaS apps.
+- **Testing and infra** - JUnit Jupiter, Mockito, Kubernetes, Docker for containerized backends, spun together with compose, CI/CD.
+- **Cloud** – Practical AWS‑style deployment patterns for apps using EC2, Load Balancer, CloudFront, S3, ACM, Secrets Manager, RDS with PG, MySQL.
 
 ***
 
