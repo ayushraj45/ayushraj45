@@ -1,6 +1,6 @@
 # Hi, I’m Ayushraj – Full‑Stack Developer with Regulatory Reporting tech & AI‑Driven Product Engineering Expertise
 
-Full‑stack developer building real products end‑to‑end with specialist regulatory reporting and compliance expertise: React / React Native frontends, NodeJS and Java Spring Boot backends, and AI‑powered workflows deployed on cloud infrastructure.  Focused on turning messy, real‑world problems into shipped, maintainable systems that users actually rely on.
+Full‑stack developer building real products end‑to‑end with specialist regulatory reporting and compliance expertise: React / React Native frontends, NodeJS and Java Spring Boot backends, DevOps (Docker, Kubernetes) and AI‑powered workflows deployed on cloud infrastructure.  Focused on turning messy, real‑world problems into shipped, maintainable systems that users actually rely on.
 
 ***
 
